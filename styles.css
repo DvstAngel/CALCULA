@@ -9,3 +9,7 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
 }
+.Calculadora{
+    position: absolute;
+    background-color: rgba(226, 81, 105, 0.3);
+}
